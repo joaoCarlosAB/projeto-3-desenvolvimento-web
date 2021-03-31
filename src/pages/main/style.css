@@ -1,0 +1,15 @@
+.buttons {
+    margin-top: 20px;
+}
+
+.buttons button {
+    margin: 2px;
+}
+
+.card {
+    margin-top: 10px;
+}
+
+.card button {
+    margin-left: 5px;
+}
